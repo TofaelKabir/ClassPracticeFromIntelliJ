@@ -13,7 +13,7 @@ public class TestFamily {
         Tofazzal m2 = new Tofazzal();
         m2.eye();
         m2.age();
-        m2.CarryingFamilyName();
+        m2.carryingFamilyName();
         m2.familyStatus();
     }
 }

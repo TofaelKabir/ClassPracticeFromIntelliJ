@@ -7,6 +7,7 @@ public class Tofael {
         System.out.println("defaut from tofael");
     }
     public void alive(){
+
         System.out.println("Tofael is still alive");
     }
 

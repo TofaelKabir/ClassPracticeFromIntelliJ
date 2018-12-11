@@ -15,7 +15,8 @@ public class Tofazzal extends Daddy {
 
         System.out.println("Tofazzal is 38");
     }
-    public void CarryingFamilyName(){
+    public void carryingFamilyName(){
+
         System.out.println("My family name is: "+familyName);
     }
     public void familyStatus(){

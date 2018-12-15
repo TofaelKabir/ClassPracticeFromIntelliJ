@@ -1,4 +1,4 @@
-package useOfSuper;
+package superUse;
 
 public class Tofazzal extends Daddy {
 

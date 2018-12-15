@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class UseArray4 {
     public static void main(String[] args) {
+
         int [] list = new int[5];
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter some integer value: ");
 

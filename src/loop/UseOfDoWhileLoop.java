@@ -11,4 +11,6 @@ public class UseOfDoWhileLoop {
 
     }
 }
-
+//While do loop:
+//initialized block;
+// do key word{sout;incremental or decremental block;}while keyword(conditional block);

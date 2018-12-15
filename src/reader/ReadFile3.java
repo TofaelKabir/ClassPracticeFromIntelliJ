@@ -7,7 +7,7 @@ import java.io.IOException;
 
 
 public class ReadFile3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
         String path = "/Users/mohammadsharkar/Desktop/kamal/tofael.txt";
 

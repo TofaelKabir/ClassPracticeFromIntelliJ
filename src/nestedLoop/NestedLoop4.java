@@ -1,8 +1,8 @@
 package nestedLoop;
 
-public class NestedLoop {
+public class NestedLoop4 {
     public static void main(String[] args) {
-        for(int i=1; i<=5; i++){
+        for(int i=1; i<=1; i++){
             System.out.println("Enter your choice for the following multiple question: ");
             System.out.print(i);
             for (int j=0; j<1; j++){
@@ -11,7 +11,7 @@ public class NestedLoop {
                 System.out.print(" c.");
                 System.out.print(" d.");
             }
-            System.out.println();  //why it comes?
+            //System.out.println();
         }
     }
 }

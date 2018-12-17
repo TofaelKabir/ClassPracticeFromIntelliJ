@@ -16,3 +16,4 @@ public class Singleton {
 
 }
 
+//I did this way

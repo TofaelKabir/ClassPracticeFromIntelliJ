@@ -473,7 +473,6 @@
       <change beforePath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../classPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../classPractice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classPractice1208To1209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classPractice1208To1209.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/map/UseOfHashMap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/map/UseOfHashMap2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Singleton1.java" afterDir="false" />
@@ -513,23 +512,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="168" />
+          <entry key="java" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="168" />
+          <entry key="JAVA" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="61" />
-          <entry key="java" value="8724" />
+          <entry key="java" value="8231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8724" />
+          <entry key="JAVA" value="8231" />
           <entry key="PLAIN_TEXT" value="61" />
         </counts>
       </usages-collector>
@@ -538,50 +537,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/FibonacciSeries2.java">
+        <entry file="file://$PROJECT_DIR$/src/nestedLoop/NestedLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/PrimeNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/PrimeNumber2.java">
+        <entry file="file://$PROJECT_DIR$/src/mathProblems/MissingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
               <folding>
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unitTest/Calculator.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unitTest/TestCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton3m.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="85">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/half/juned/PPNT2018MIDTERM/src/math/problems/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nestedLoop/NestedLoop3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nestedLoop/NestedLoop4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -601,6 +649,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/array/UseArray1.java" />
+        <option value="$PROJECT_DIR$/src/array/UseArray4.java" />
+        <option value="$PROJECT_DIR$/src/array/UseArray5.java" />
+        <option value="$PROJECT_DIR$/src/array/UseOfRandom1.java" />
+        <option value="$PROJECT_DIR$/src/array/UseOfRandom2.java" />
         <option value="$PROJECT_DIR$/src/dataStructure/UseOfLinkedList1.java" />
         <option value="$PROJECT_DIR$/src/iterator/UseOfForEachLoop.java" />
         <option value="$PROJECT_DIR$/src/iterator/UseOfForEachLoop2.java" />
@@ -634,6 +687,8 @@
         <option value="$PROJECT_DIR$/src/map/UseOfHashMap2.java" />
         <option value="$PROJECT_DIR$/src/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java" />
+        <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries2.java" />
         <option value="$PROJECT_DIR$/src/nestedLoop/NestedLoop4.java" />
         <option value="$PROJECT_DIR$/src/nestedLoop/NestedLoop1.java" />
         <option value="$PROJECT_DIR$/src/nestedLoop/NestedLoop2.java" />
@@ -645,19 +700,12 @@
         <option value="$PROJECT_DIR$/src/Singleton/SingletonMafiBhai.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Singleton3m.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Singleton3.java" />
-        <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java" />
-        <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries2.java" />
-        <option value="$PROJECT_DIR$/src/mathProblems/FibonacciSeries2.java" />
-        <option value="$PROJECT_DIR$/src/mathProblems/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/mathProblems/PrimeNumber2.java" />
-        <option value="$PROJECT_DIR$/src/unitTest/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/unitTest/TestCalculator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="48" />
+    <option name="x" value="243" />
+    <option name="y" value="25" />
     <option name="width" value="1394" />
     <option name="height" value="832" />
   </component>
@@ -699,6 +747,17 @@
               <item name="classPractice1208To1209" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="classPractice1208To1209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
+            <path>
+              <item name="classPractice1208To1209" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="classPractice1208To1209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="classPractice1208To1209" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="classPractice1208To1209" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="reader" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -719,7 +778,7 @@
               <item name="classPractice1208To1209" type="b2602c69:ProjectViewProjectNode" />
               <item name="classPractice1208To1209" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -729,7 +788,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plug&#9;PSI&#9;JAVA://com.sun.webkit.plugin.Plugin" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545071605087" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545024910272" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -762,20 +821,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber2">
-    <configuration name="FibonacciSeries2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.FibonacciSeries2" />
-      <module name="classPractice1208To1209" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mathProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Singleton3m">
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mathProblems.MissingNumber" />
       <module name="classPractice1208To1209" />
@@ -789,12 +835,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.PrimeNumber" />
+    <configuration name="NestedLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedLoop.NestedLoop2" />
       <module name="classPractice1208To1209" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mathProblems.*" />
+          <option name="PATTERN" value="nestedLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -802,12 +848,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.PrimeNumber2" />
+    <configuration name="NestedLoop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedLoop.NestedLoop3" />
       <module name="classPractice1208To1209" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mathProblems.*" />
+          <option name="PATTERN" value="nestedLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -828,20 +874,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblems.StringManipulation" />
+      <module name="classPractice1208To1209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.NestedLoop2" />
+      <item itemvalue="Application.NestedLoop3" />
+      <item itemvalue="Application.StringManipulation" />
       <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.Singleton3m" />
-      <item itemvalue="Application.FibonacciSeries2" />
-      <item itemvalue="Application.PrimeNumber" />
-      <item itemvalue="Application.PrimeNumber2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber2" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.FibonacciSeries2" />
         <item itemvalue="Application.Singleton3m" />
         <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.StringManipulation" />
+        <item itemvalue="Application.NestedLoop3" />
+        <item itemvalue="Application.NestedLoop2" />
       </list>
     </recent_temporary>
   </component>
@@ -859,10 +918,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="48" width="1394" height="832" extended-state="0" />
+    <frame x="243" y="25" width="1394" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -871,8 +930,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35675675" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32702702" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -923,7 +982,78 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/array/UseArray4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/UseArray5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input/UseOfScanner1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/ExceptionHandling3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/ExceptionHandling2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/ExceptionHandling1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterator/UseOfForEachLoop2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/iterator/UseOfForEachLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1171,6 +1301,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem/solving/FibonacciSeries2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nestedLoop/NestedLoop1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1209,10 +1353,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mathProblems/MissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1245,20 +1396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/half/juned/PPNT2018MIDTERM/src/math/problems/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/half/afia/Midterm2018/src/codelab/status/Trainee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton3m.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1266,62 +1403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
+    <entry file="file://$USER_HOME$/Desktop/half/juned/PPNT2018MIDTERM/src/math/problems/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/FibonacciSeries1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/FibonacciSeries2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/kamal/midterm/src/math/problems/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/kamal/midterm/src/math/problems/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/PrimeNumber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unitTest/TestCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unitTest/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="193">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

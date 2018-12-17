@@ -18,3 +18,4 @@ public class Singleton1 {
 
 }
 
+//i did this way

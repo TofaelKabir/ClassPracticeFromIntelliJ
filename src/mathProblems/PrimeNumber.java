@@ -1,3 +1,5 @@
+/*
+
 package mathProblems;
 
 public class PrimeNumber {
@@ -14,8 +16,8 @@ public class PrimeNumber {
                     System.out.println("non-prime: "+i);
                 }
             }
-        }
-    }
+
+
 
 public static boolean isPrime(int n) {
     if (n % 2 == 0) return false;
@@ -24,4 +26,5 @@ public static boolean isPrime(int n) {
     }
     return true;
     }
-}
+}}}
+*/

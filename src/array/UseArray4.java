@@ -14,7 +14,7 @@ public class UseArray4 {
             list[i] = sc.nextInt();
             System.out.println(list[i]);
         }
-        //System.out.println(list[3]);
+        System.out.println(list[3]);
         sc.close();
     }
 }

@@ -13,11 +13,13 @@ public class UseArray1 {
 
 
         list [6] = 56;
-
-
+        list [7] = 57;
+        list [8] = 58;
+        list [9] = 59;
 
         System.out.println(list[0]);
         System.out.println(list[6]);
         System.out.println(list[9]);
+        System.out.println(list[list.length-2]);  //code lab
     }
 }

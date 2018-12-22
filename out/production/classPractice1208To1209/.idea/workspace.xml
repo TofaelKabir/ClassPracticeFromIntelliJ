@@ -483,13 +483,11 @@
       <change beforePath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../classPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../classPractice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classPractice1208To1209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classPractice1208To1209.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/classPractice1208To1209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/classPractice1208To1209.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/TestCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unitTest/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unitTest/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unitTest/TestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unitTest/TestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/array/UseArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/array/UseArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/mathProblems/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/mathProblems/StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UseArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/UseArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathProblems/StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathProblems/StringManipulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mentoring" beforeDir="false" afterPath="$PROJECT_DIR$/../mentoring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project OOP/bin/oop/abstraction/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project OOP/bin/oop/abstraction/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project OOP/src/oop/abstraction/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project OOP/src/oop/abstraction/Car.java" afterDir="false" />
@@ -524,7 +522,7 @@
     <session id="1093516019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -533,25 +531,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="192" />
+          <entry key="java" value="196" />
           <entry key="lib" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="192" />
+          <entry key="JAVA" value="196" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="61" />
-          <entry key="java" value="9182" />
+          <entry key="java" value="9725" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9182" />
+          <entry key="JAVA" value="9725" />
           <entry key="PLAIN_TEXT" value="61" />
         </counts>
       </usages-collector>
@@ -560,19 +558,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/MissingNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/array/UseArray1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="234">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/FibonacciSeries1.java">
+        <entry file="file://$PROJECT_DIR$/src/arrayList/UseArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="353">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/UseArray2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -604,11 +624,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/unitTest/TestCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="238">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -629,17 +649,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mathProblems/FibonacciSeries2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -659,8 +670,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dataStructure/UseOfLinkedList2.java" />
-        <option value="$PROJECT_DIR$/src/arrayList/UseArrayList.java" />
         <option value="$PROJECT_DIR$/src/stack/UseOfStack.java" />
         <option value="$PROJECT_DIR$/src/stack/UseOfStack2.java" />
         <option value="$PROJECT_DIR$/src/stack/UseOfStack3.java" />
@@ -701,7 +710,6 @@
         <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries1.java" />
         <option value="$PROJECT_DIR$/src/problem/solving/FibonacciSeries2.java" />
         <option value="$PROJECT_DIR$/src/mathProblems/FibonacciSeries2.java" />
-        <option value="$PROJECT_DIR$/src/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/mathProblems/MissingNumber.java" />
@@ -710,11 +718,14 @@
         <option value="$PROJECT_DIR$/src/mathProblems/Pyramids.java" />
         <option value="$PROJECT_DIR$/src/unitTest/Calculator.java" />
         <option value="$PROJECT_DIR$/src/unitTest/TestCalculator.java" />
+        <option value="$PROJECT_DIR$/src/mathProblems/StringManipulation.java" />
+        <option value="$PROJECT_DIR$/src/array/UseArray1.java" />
+        <option value="$PROJECT_DIR$/src/sorting/SelectionSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
+    <option name="x" value="46" />
     <option name="y" value="23" />
     <option name="width" value="1394" />
     <option name="height" value="832" />
@@ -777,7 +788,7 @@
               <item name="classPractice1208To1209" type="b2602c69:ProjectViewProjectNode" />
               <item name="classPractice1208To1209" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -787,7 +798,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plug&#9;PSI&#9;JAVA://com.sun.webkit.plugin.Plugin" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545166396662" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545340160252" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -821,20 +832,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCalculator">
-    <configuration name="FibonacciSeries1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.FibonacciSeries1" />
-      <module name="classPractice1208To1209" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mathProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mathProblems.MissingNumber" />
       <module name="classPractice1208To1209" />
@@ -848,12 +846,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.PrimeNumber2" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
       <module name="classPractice1208To1209" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mathProblems.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -861,8 +859,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pyramids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathProblems.Pyramids" />
+    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblems.StringManipulation" />
       <module name="classPractice1208To1209" />
       <extension name="coverage">
         <pattern>
@@ -887,20 +885,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.UseArray1" />
+      <module name="classPractice1208To1209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MissingNumber" />
-      <item itemvalue="Application.FibonacciSeries1" />
-      <item itemvalue="Application.Pyramids" />
-      <item itemvalue="Application.PrimeNumber2" />
       <item itemvalue="Application.TestCalculator" />
+      <item itemvalue="Application.StringManipulation" />
+      <item itemvalue="Application.UseArray1" />
+      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.MissingNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCalculator" />
-        <item itemvalue="Application.PrimeNumber2" />
-        <item itemvalue="Application.Pyramids" />
-        <item itemvalue="Application.FibonacciSeries1" />
         <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.UseArray1" />
+        <item itemvalue="Application.StringManipulation" />
+        <item itemvalue="Application.TestCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -918,7 +929,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1394" height="832" extended-state="0" />
+    <frame x="67" y="23" width="1394" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -929,7 +941,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40945947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -983,24 +995,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dataStructure/UseOfLinkedList1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#223#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/UseOfStack2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/UseOfStack3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1266,24 +1260,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/UseArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1319,13 +1299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1366,8 +1339,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unitTest/TestCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mathProblems/StringManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/UseArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/UseArray1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayList/UseArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>

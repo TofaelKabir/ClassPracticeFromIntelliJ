@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49301c8-7739-4ed6-8d5c-8c5df7c08baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.12-yb-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/testng-7.0.0-beta1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerationPractice/Macys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerationPractice/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerationPractice/TestSize.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../habijabi/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../habijabi/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../habijabi/.idea/vcs.xml" afterDir="false" />
@@ -497,17 +491,6 @@
       <change beforePath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/write.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../classPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../classPractice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classPractice1208To1209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classPractice1208To1209.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/testng-6.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/classPractice1208To1209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/classPractice1208To1209.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/lib/testng-6.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/mathProblems/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/mathProblems/MissingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classPractice1208To1209/unitTest/TestCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathProblems/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathProblems/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unitTest/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unitTest/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unitTest/TestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unitTest/TestCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mentoring" beforeDir="false" afterPath="$PROJECT_DIR$/../mentoring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project OOP/bin/oop/abstraction/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project OOP/bin/oop/abstraction/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project OOP/src/oop/abstraction/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project OOP/src/oop/abstraction/Car.java" afterDir="false" />
@@ -553,7 +536,7 @@
         <counts>
           <entry key="demo" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="222" />
+          <entry key="java" value="223" />
           <entry key="lib" value="1" />
           <entry key="ser" value="1" />
         </counts>
@@ -561,7 +544,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="222" />
+          <entry key="JAVA" value="223" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
@@ -570,12 +553,12 @@
         <counts>
           <entry key="demo" value="163" />
           <entry key="dummy" value="68" />
-          <entry key="java" value="10750" />
+          <entry key="java" value="11002" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10750" />
+          <entry key="JAVA" value="11002" />
           <entry key="PLAIN_TEXT" value="68" />
           <entry key="XML" value="163" />
         </counts>
@@ -584,53 +567,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/parserDemo/ParserHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/parserDemo/TestParserHandle.java">
+        <entry file="file://$PROJECT_DIR$/src/mathProblems/Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/xml/sax/XMLReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/xml/sax/helpers/DefaultHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="349" column="5" selection-start-line="345" selection-start-column="4" selection-end-line="349" selection-end-column="5" />
+            <state relative-caret-position="205">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -657,7 +598,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/stack/UseOfStack5.java" />
         <option value="$PROJECT_DIR$/src/Queue/UseOfQueue4.java" />
         <option value="$PROJECT_DIR$/src/Queue/UseOfQueue3.java" />
         <option value="$PROJECT_DIR$/src/Queue/UseOfQueue5.java" />
@@ -708,12 +648,13 @@
         <option value="$PROJECT_DIR$/demo" />
         <option value="$PROJECT_DIR$/src/parserDemo/TestParserHandle.java" />
         <option value="$PROJECT_DIR$/src/parserDemo/ParserHandler.java" />
+        <option value="$PROJECT_DIR$/src/mathProblems/Anagram.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-33" />
-    <option name="y" value="46" />
+    <option name="x" value="30" />
+    <option name="y" value="24" />
     <option name="width" value="1394" />
     <option name="height" value="832" />
   </component>
@@ -775,7 +716,7 @@
               <item name="classPractice1208To1209" type="b2602c69:ProjectViewProjectNode" />
               <item name="classPractice1208To1209" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="parserDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mathProblems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="classPractice1208To1209" type="b2602c69:ProjectViewProjectNode" />
@@ -791,7 +732,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plug&#9;PSI&#9;JAVA://com.sun.webkit.plugin.Plugin" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545514531118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545518559726" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -825,7 +766,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestParserHandle">
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathProblems.Anagram" />
+      <module name="classPractice1208To1209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mathProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeserializeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Serialization.DeserializeObject" />
       <module name="classPractice1208To1209" />
@@ -878,33 +832,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseArray4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.UseArray4" />
-      <module name="classPractice1208To1209" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.MissingNumber" />
-      <item itemvalue="Application.UseArray4" />
       <item itemvalue="Application.SerializeObject" />
       <item itemvalue="Application.DeserializeObject" />
       <item itemvalue="Application.TestParserHandle" />
+      <item itemvalue="Application.Anagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.TestParserHandle" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.DeserializeObject" />
         <item itemvalue="Application.SerializeObject" />
-        <item itemvalue="Application.UseArray4" />
       </list>
     </recent_temporary>
   </component>
@@ -922,7 +863,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-33" y="46" width="1394" height="832" extended-state="0" />
+    <frame x="30" y="24" width="1394" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -934,7 +875,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.048648648" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28783783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -988,17 +929,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1328,10 +1258,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/xml/sax/helpers/DefaultHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/parserDemo/TestParserHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="349" column="5" selection-start-line="345" selection-start-column="4" selection-end-line="349" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parserDemo/ParserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,23 +1292,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parserDemo/ParserHandler.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/xml/sax/helpers/DefaultHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="188">
+          <caret line="349" column="5" selection-start-line="345" selection-start-column="4" selection-end-line="349" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parserDemo/TestParserHandle.java">
+    <entry file="file://$PROJECT_DIR$/src/mathProblems/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="205">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -10,7 +10,7 @@ public class MissingNumber {
         System.out.println(sum);
 
         int total = 0;
-        for(int j=0; j<=10; j++){
+        for(int j=1; j<=10; j++){
             total = total + j;
         }
         System.out.println(total);

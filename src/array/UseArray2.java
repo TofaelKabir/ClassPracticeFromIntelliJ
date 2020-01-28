@@ -7,7 +7,7 @@ public class UseArray2 {
         list [1] = 18;
         list [6] = 56;
         for(int i=0; i<list.length;i++){
-            System.out.println(list[6]);
+            System.out.println(list[i]);
         }
     }
 }
